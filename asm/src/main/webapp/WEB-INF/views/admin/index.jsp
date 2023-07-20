@@ -1,0 +1,1 @@
+<h1 style="text-align:center; color: #3f0097;">Welcome Admin page</h1>
